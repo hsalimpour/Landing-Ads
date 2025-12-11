@@ -1,3 +1,22 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-Plugin-0073aa?logo=wordpress&logoColor=white" alt="WordPress Plugin">
+  <img src="https://img.shields.io/badge/PHP-%3E%3D%207.4-777bb3?logo=php&logoColor=white" alt="PHP >= 7.4">
+  <img src="https://img.shields.io/badge/Version-1.0.3-green" alt="Version 1.0.3">
+  <img src="https://img.shields.io/badge/Language-fa--IR-orange" alt="Language fa-IR">
+  <a href="https://github.com/USERNAME/landing-ads/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-GPLv2%2B-blue" alt="License GPLv2+">
+  </a>
+  <a href="https://github.com/USERNAME/landing-ads/stargazers">
+    <img src="https://img.shields.io/github/stars/USERNAME/landing-ads?style=social" alt="GitHub Stars">
+  </a>
+</p>
+
+<h1 align="center">افزونه «تبلیغ لندینگ» (Landing Ads)</h1>
+
+<p align="center">
+  شورت‌کد سبک برای معرفی برگه‌ها و نوشته‌های داخلی در لندینگ‌پیج‌ها با کارت‌های مینیمال و اسلایدر موبایل.
+</p>
+
 # افزونه «تبلیغ لندینگ» (Landing Ads)
 
 افزونه وردپرس برای معرفی برگه‌ها و نوشته‌های داخلی با شورت‌کد و دکمه اختصاصی در ادیتور کلاسیک.
